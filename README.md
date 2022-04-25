@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nafidev
-- 👀 I’m interested in softwware & web apps developemnt
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in software & web apps developemnt
+- 🌱 I’m currently learning computer science '1 more year to become an engineer"
 - 💞️ I’m looking to collaborate on web apps projects
 - 📫 How to reach me: nafi.mustaphaa@gmail.com
 

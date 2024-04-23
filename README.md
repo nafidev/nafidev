@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nafidev
-- 👀 I’m interested in software & web apps developemnt
-- 🌱 I’m currently learning computer science '1 more year to become an engineer"
+- 👀 I’m interested in software developemnt & devops practices.
+- 🌱 I’m currently a DevOps engineer based in Casablanca / Morocco.
 - 💞️ I’m looking to collaborate on web apps projects
 - 📫 How to reach me: nafi.mustaphaa@gmail.com
 
